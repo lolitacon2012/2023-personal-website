@@ -1,0 +1,1 @@
+declare var __xt_i18n: { [key: string]: string } | undefined;
